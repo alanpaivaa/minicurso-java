@@ -1,4 +1,4 @@
-package minicurso.java.exercicios;
+package minicurso.java.exercicio2;
 
 import java.text.DecimalFormat;
 import java.util.Scanner;
